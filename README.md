@@ -1,7 +1,8 @@
-Certainly! Below is the **enhanced version** of your **Integrated Framework: Agile Scrum + SDLC + Golden Circle (Why, What, How)**, now incorporating comprehensive **Quality Assurance (QA)** and **Quality Engineering (QE)** roles and practices. These additions ensure a more robust focus on quality throughout the software development lifecycle.
+# Documentation Notice
 
----
+**Note:** This documentation is currently in development and is subject to change. Please check back regularly for updates.
 
+Thank you for your understanding.
 # Integrated Framework: Agile Scrum + SDLC + Golden Circle (Why, What, How)
 
 This comprehensive framework synergizes **Agile Scrum**, **Software Development Life Cycle (SDLC)**, and **Simon Sinek’s Golden Circle (Why, What, How)** to create a structured yet adaptable approach to software development. It delineates roles, responsibilities, team structures, meetings, processes, and continuous improvement strategies to ensure efficient project execution and successful delivery.
